@@ -1,6 +1,6 @@
 # OpenYu Mysterious I X Planning
 
-## 2013/04/01
+#### 2013/04/01
 
 1./excel 資料編輯器
 
